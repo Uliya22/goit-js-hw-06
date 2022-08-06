@@ -22,3 +22,12 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+ul {
+  list-style: none;
+}
+img {
+  display: block;
+  margin-bottom: 10px;
+  width: 350px;
+  height: 250px;
+}
