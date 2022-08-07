@@ -22,7 +22,7 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
-ul {
+.gallery {
   list-style: none;
   display: flex;
   margin-left: -10px;
