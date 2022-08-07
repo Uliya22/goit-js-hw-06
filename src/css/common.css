@@ -24,10 +24,14 @@ button {
 }
 ul {
   list-style: none;
+  display: flex;
+  margin-left: -10px;
+}
+li {
+  margin-left: 10px;
+   
 }
 img {
-  display: block;
-  margin-bottom: 10px;
-  width: 350px;
-  height: 250px;
+  width: 320px;
+  height: 240px;
 }
